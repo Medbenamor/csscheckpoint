@@ -1,0 +1,66 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+#top-widlle{    
+	font-size: 3em;
+    font-family: 'Bree Serif', serif;
+    color: #fff;
+    margin-top: 280px ;
+
+}
+#taswira{    
+	width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url(https://images.unsplash.com/photo-1532972190883-11c46c01030b?ixlib=rb-0.3.5…gb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e301c9d…);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 35px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+#articles{
+	    color: rgb(34, 50, 95);
+    font-size: 4em;
+    font-family: 'Bree Serif', serif;
+    margin: 30px 0 40px 30px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+}
+#all{
+    width: 90%;
+    margin: auto;
+    margin-left:210px;
+}
+.noir{
+	background-color: #574F4F;
+	color: white;
+    height: 50px;
+}
+.paragraph{
+    display: inline-block;
+    width: 500px;
+    padding:20px;
+    height:250px ;
+    margin:2px;
+    box-sizing: border-box ; 
+    overflow:hidden;
+    transition:all.3s;   
+}
+.paragraph:hover {
+    border: 3px solid black;
+
+}
+.top-widlle{
+    position:left;
+}   
+
+
+
+
+
+
